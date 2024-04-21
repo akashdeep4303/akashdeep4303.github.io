@@ -6,7 +6,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 - 🌱 I’m Interested to work on Web 3.0
 - 👯 I’m making the world better by PRs 
 - 💬 Ask me about Technology & Finance
-- 📫 How to reach me: dipayansarkar265482@gmail.com
+- 📫 How to reach me: akashgsdeep12@gmail.com
 - ⚡ Fun fact: I'm currently studying B. Tech Computer Science
 
 <a href="https://www.github.com/dipayansarkar47" target="_blank" rel="noreferrer"><img
